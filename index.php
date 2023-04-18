@@ -1,4 +1,4 @@
-  <?php session_start();
+<?php session_start();
 	include "./clases/Conexion.php";
 	include "./clases/Crud.php";
 	$crud = new Crud();
